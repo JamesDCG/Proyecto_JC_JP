@@ -1,8 +1,8 @@
 package modelo;
 
 /**
- * Clase que representa a un coordinador en el sistema.
- * Hereda de la clase abstracta Persona.
+ Clase que representa a un coordinador en el sistema.
+ Hereda de la clase abstracta Persona.
  */
 public class Coordinador extends Persona {
     private String areaResponsabilidad;
