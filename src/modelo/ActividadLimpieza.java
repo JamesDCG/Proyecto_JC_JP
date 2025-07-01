@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Clase que representa una actividad de limpieza en el sistema.
+ * Clase que representa una actividad de limpieza en el sistemas.
  */
 public class ActividadLimpieza {
     private int id;
